@@ -7,7 +7,7 @@ documentation: https://learn.codepur.dev/dataflow
 repository: https://github.com/iampawan/DataFlow
 
 environment:
-  sdk: ">=3.4.3 <4.0.0"
+  sdk: '>=3.2.5 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
